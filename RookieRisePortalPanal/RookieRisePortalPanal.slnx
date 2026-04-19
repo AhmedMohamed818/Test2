@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="RookieRisePortalPanal.Data/RookieRisePortalPanal.Data.csproj" />
+  <Project Path="RookieRisePortalPanal.Repositories/RookieRisePortalPanal.Repositories.csproj" />
+  <Project Path="RookieRisePortalPanal.Services/RookieRisePortalPanal.Services.csproj" />
+  <Project Path="RookieRisePortalPanal/RookieRisePortalPanal.csproj" />
+</Solution>

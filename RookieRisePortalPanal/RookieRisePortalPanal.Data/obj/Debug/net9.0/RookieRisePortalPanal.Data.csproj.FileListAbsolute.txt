@@ -1,0 +1,14 @@
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Data\bin\Debug\net9.0\RookieRisePortalPanal.Data.deps.json
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Data\bin\Debug\net9.0\RookieRisePortalPanal.Data.runtimeconfig.json
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Data\bin\Debug\net9.0\RookieRisePortalPanal.Data.dll
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Data\bin\Debug\net9.0\RookieRisePortalPanal.Data.pdb
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Data\obj\Debug\net9.0\RookieRisePortalPanal.Data.csproj.AssemblyReference.cache
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Data\obj\Debug\net9.0\RookieRisePortalPanal.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Data\obj\Debug\net9.0\RookieRisePortalPanal.Data.AssemblyInfoInputs.cache
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Data\obj\Debug\net9.0\RookieRisePortalPanal.Data.AssemblyInfo.cs
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Data\obj\Debug\net9.0\RookieRisePortalPanal.Data.csproj.CoreCompileInputs.cache
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Data\obj\Debug\net9.0\RookieRisePortalPanal.Data.dll
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Data\obj\Debug\net9.0\refint\RookieRisePortalPanal.Data.dll
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Data\obj\Debug\net9.0\RookieRisePortalPanal.Data.pdb
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Data\obj\Debug\net9.0\RookieRisePortalPanal.Data.genruntimeconfig.cache
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Data\obj\Debug\net9.0\ref\RookieRisePortalPanal.Data.dll

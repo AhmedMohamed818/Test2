@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LOL\\source\\repos\\RookieRisePortalPanal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69227D66-0263-3661-0D98-07BB33EBCC2C}|RookieRisePortalPanal.Services\\RookieRisePortalPanal.Services.csproj|c:\\users\\lol\\source\\repos\\rookieriseportalpanal\\rookieriseportalpanal.services\\accountservice\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69227D66-0263-3661-0D98-07BB33EBCC2C}|RookieRisePortalPanal.Services\\RookieRisePortalPanal.Services.csproj|solutionrelative:rookieriseportalpanal.services\\accountservice\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69227D66-0263-3661-0D98-07BB33EBCC2C}|RookieRisePortalPanal.Services\\RookieRisePortalPanal.Services.csproj|c:\\users\\lol\\source\\repos\\rookieriseportalpanal\\rookieriseportalpanal.services\\accountservice\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69227D66-0263-3661-0D98-07BB33EBCC2C}|RookieRisePortalPanal.Services\\RookieRisePortalPanal.Services.csproj|solutionrelative:rookieriseportalpanal.services\\accountservice\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58C0A2C-E9E1-E416-473C-92383BD63E79}|RookieRisePortalPanal\\RookieRisePortalPanal.csproj|c:\\users\\lol\\source\\repos\\rookieriseportalpanal\\rookieriseportalpanal\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58C0A2C-E9E1-E416-473C-92383BD63E79}|RookieRisePortalPanal\\RookieRisePortalPanal.csproj|solutionrelative:rookieriseportalpanal\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58C0A2C-E9E1-E416-473C-92383BD63E79}|RookieRisePortalPanal\\RookieRisePortalPanal.csproj|c:\\users\\lol\\source\\repos\\rookieriseportalpanal\\rookieriseportalpanal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58C0A2C-E9E1-E416-473C-92383BD63E79}|RookieRisePortalPanal\\RookieRisePortalPanal.csproj|solutionrelative:rookieriseportalpanal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\LOL\\source\\repos\\RookieRisePortalPanal\\RookieRisePortalPanal.Services\\AccountService\\DTO\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "RookieRisePortalPanal.Services\\AccountService\\DTO\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\LOL\\source\\repos\\RookieRisePortalPanal\\RookieRisePortalPanal.Services\\AccountService\\DTO\\RegisterDto.cs",
+              "RelativeToolTip": "RookieRisePortalPanal.Services\\AccountService\\DTO\\RegisterDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T05:03:32.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LOL\\source\\repos\\RookieRisePortalPanal\\RookieRisePortalPanal\\Program.cs",
+              "RelativeDocumentMoniker": "RookieRisePortalPanal\\Program.cs",
+              "ToolTip": "C:\\Users\\LOL\\source\\repos\\RookieRisePortalPanal\\RookieRisePortalPanal\\Program.cs",
+              "RelativeToolTip": "RookieRisePortalPanal\\Program.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAqwAMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T04:24:28.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\LOL\\source\\repos\\RookieRisePortalPanal\\RookieRisePortalPanal.Services\\AccountService\\AccountService.cs",
+              "RelativeDocumentMoniker": "RookieRisePortalPanal.Services\\AccountService\\AccountService.cs",
+              "ToolTip": "C:\\Users\\LOL\\source\\repos\\RookieRisePortalPanal\\RookieRisePortalPanal.Services\\AccountService\\AccountService.cs",
+              "RelativeToolTip": "RookieRisePortalPanal.Services\\AccountService\\AccountService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAASwFsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T04:05:58.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\LOL\\source\\repos\\RookieRisePortalPanal\\RookieRisePortalPanal\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "RookieRisePortalPanal\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\LOL\\source\\repos\\RookieRisePortalPanal\\RookieRisePortalPanal\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "RookieRisePortalPanal\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T04:04:31.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

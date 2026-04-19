@@ -1,0 +1,15 @@
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Repositories\obj\Debug\net9.0\RookieRisePortalPanal.Repositories.csproj.AssemblyReference.cache
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Repositories\obj\Debug\net9.0\RookieRisePortalPanal.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Repositories\obj\Debug\net9.0\RookieRisePortalPanal.Repositories.AssemblyInfoInputs.cache
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Repositories\obj\Debug\net9.0\RookieRisePortalPanal.Repositories.AssemblyInfo.cs
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Repositories\obj\Debug\net9.0\RookieRisePortalPanal.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Repositories\bin\Debug\net9.0\RookieRisePortalPanal.Repositories.deps.json
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Repositories\bin\Debug\net9.0\RookieRisePortalPanal.Repositories.dll
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Repositories\bin\Debug\net9.0\RookieRisePortalPanal.Repositories.pdb
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Repositories\bin\Debug\net9.0\RookieRisePortalPanal.Data.dll
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Repositories\bin\Debug\net9.0\RookieRisePortalPanal.Data.pdb
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Repositories\obj\Debug\net9.0\RookieRi.07F4907E.Up2Date
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Repositories\obj\Debug\net9.0\RookieRisePortalPanal.Repositories.dll
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Repositories\obj\Debug\net9.0\refint\RookieRisePortalPanal.Repositories.dll
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Repositories\obj\Debug\net9.0\RookieRisePortalPanal.Repositories.pdb
+C:\Users\LOL\source\repos\RookieRisePortalPanal\RookieRisePortalPanal.Repositories\obj\Debug\net9.0\ref\RookieRisePortalPanal.Repositories.dll
